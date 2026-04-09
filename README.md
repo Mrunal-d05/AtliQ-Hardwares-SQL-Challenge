@@ -82,8 +82,7 @@ visual presentation.
 
 ##  Project Screenshots
 
-> *(https://github.com/Mrunal-d05/AtliQ-Hardwares-SQL-Challenge/blob/main/que2.png)*
-> https://github.com/Mrunal-d05/AtliQ-Hardwares-SQL-Challenge/blob/main/que8.png
+> <img width="919" height="486" alt="que8" src="https://github.com/user-attachments/assets/b7914731-d3d4-4acc-97fc-7f475d22d971" />
 
 ---
 
