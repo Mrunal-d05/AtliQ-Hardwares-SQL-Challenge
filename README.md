@@ -82,7 +82,7 @@ visual presentation.
 
 ##  Project Screenshots
 
-> *(Add your screenshots here after uploading)*
+> *(https://github.com/Mrunal-d05/AtliQ-Hardwares-SQL-Challenge/blob/main/que2.png)*
 
 ---
 
