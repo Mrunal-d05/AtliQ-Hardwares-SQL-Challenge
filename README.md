@@ -83,6 +83,8 @@ visual presentation.
 ##  Project Screenshots
 
 > <img width="919" height="486" alt="que8" src="https://github.com/user-attachments/assets/b7914731-d3d4-4acc-97fc-7f475d22d971" />
+<img width="1012" height="453" alt="que2" src="https://github.com/user-attachments/assets/d2ced8eb-dc05-42f6-a0a9-d163d5e71ad8" />
+
 
 ---
 
