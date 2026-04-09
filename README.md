@@ -89,7 +89,7 @@ visual presentation.
 ---
 
 ##  Links
-- 📊 [Presentation PDF](#)
+- 📊 [Presentation PDF](https://github.com/Mrunal-d05/AtliQ-Hardwares-SQL-Challenge/blob/main/sql_ppt_pdf.pdf)
 - 🏆 [CodeBasics Resume Project Challenge](https://codebasics.io/challenges/codebasics-resume-project-challenge/7)
 
 ---
