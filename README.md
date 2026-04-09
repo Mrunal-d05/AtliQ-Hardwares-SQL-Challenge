@@ -3,35 +3,35 @@ A SQL-based exploration of AtliQ Hardwares sales and product data to uncover reg
 
 # AtliQ Hardwares – SQL Ad Hoc Business Insights
 
-## 📌 Project Overview
+##  Project Overview
 A SQL-based exploration of AtliQ Hardwares' sales and product data to uncover 
 regional market trends, portfolio growth, channel performance, and pricing 
 dynamics driving strategic business decisions.
 
 ---
 
-## 🏢 Company Background
+##  Company Background
 AtliQ Hardwares is one of India's leading computer hardware producers with a 
 strong and growing global presence. The management identified a critical gap — 
 limited data visibility for fast, informed decision-making.
 
 ---
 
-## 🎯 Objective
+##  Objective
 To solve 10 real-world ad hoc business requests using advanced MySQL queries 
 and present data-driven insights to top-level management through a structured 
 visual presentation.
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 - **Database:** MySQL
-- **Presentation:** Microsoft PowerPoint
+- **Presentation:** Canva
 - **Skills:** SQL Querying, Data Analysis, Business Insights, Data Visualization
 
 ---
 
-## 💡 SQL Concepts Used
+##  SQL Concepts Used
 - SELECT, WHERE, GROUP BY, HAVING, ORDER BY, LIMIT
 - JOINs (INNER, LEFT)
 - CTEs (WITH clause)
@@ -42,7 +42,7 @@ visual presentation.
 
 ---
 
-## 📊 Business Requests & Key Findings
+## 📊Business Requests & Key Findings
 
 | # | Business Request | Key Finding |
 |---|---|---|
@@ -59,7 +59,7 @@ visual presentation.
 
 ---
 
-## 💡 Key Business Insights
+##  Key Business Insights
 - Atliq Exclusive operates across **8 APAC markets** — a high-value regional partner
 - Product portfolio grew **36%** in one year, driven by the Accessories segment
 - **November** consistently peaks in sales due to Diwali & festive season demand
@@ -70,7 +70,7 @@ visual presentation.
 
 ---
 
-## 📁 Files in This Repository
+##  Files in This Repository
 
 | File | Description |
 |---|---|
@@ -80,18 +80,18 @@ visual presentation.
 
 ---
 
-## 📸 Project Screenshots
+##  Project Screenshots
 
 > *(Add your screenshots here after uploading)*
 
 ---
 
-## 🔗 Links
+##  Links
 - 📊 [Presentation PDF](#)
 - 🏆 [CodeBasics Resume Project Challenge](https://codebasics.io/event/codebasics-resume-project-challenge)
 
 ---
 
-## 👩‍💻 Author
+## 👩‍💻Author
 **Mrunal Deshpande**
 [LinkedIn](#) | [Portfolio](#)
