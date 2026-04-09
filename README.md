@@ -90,7 +90,7 @@ visual presentation.
 
 ##  Links
 - 📊 [Presentation PDF](#)
-- 🏆 [CodeBasics Resume Project Challenge](https://codebasics.io/event/codebasics-resume-project-challenge)
+- 🏆 [CodeBasics Resume Project Challenge](https://codebasics.io/challenges/codebasics-resume-project-challenge/7)
 
 ---
 
