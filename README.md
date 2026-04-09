@@ -96,4 +96,4 @@ visual presentation.
 
 ## 👩‍💻Author
 **Mrunal Deshpande**
-[www.linkedin.com/in/deshpandemrunal](#) | [Portfolio](#)
+[LinkedIn](www.linkedin.com/in/deshpandemrunal) | [Portfolio](#)
